@@ -1,0 +1,31 @@
+metadata_version: 1
+name: MNet (Mergenet) a framework to reduce fruit image misclassification using pre-trained
+  models
+description: 'Fast and accurate fruit classification is a major problem in the farming
+  business. To achieve the same, the most popular technique used to build a classification
+  model is “Transfer Learning”, in which the weights of pretrained models are used
+  in a new model to solve different but related problems. This work proposed a novel
+  framework called “MNet: Merged Net” which not only improves the accuracy, but also
+  addresses the misclassification problem. In this framework, the fruit classification
+  problem is divided into small problems and build a separate model for each. In the
+  final stage, the results of these models are combined. Two models called as FC_InceptionV3
+  (Fruit Classification InceptionV3) and MFC_InceptionV3 (Merged Fruit Classification
+  InceptionV3) are created based on popular pretrained model InceptionV3. MFC_InceptionV3
+  is based on proposed framework.'
+tags:
+- machine learning
+- fruit classification
+- transfer learning
+authors:
+- name: Vishal Meshram
+  affiliations:
+  - name: Vishwakarma Institute of Information Technology
+- name: Kailas Patil
+  affiliations:
+  - name: Vishwakarma University
+- name: Vidula Meshram
+  affiliations:
+  - name: Vishwakarma Institute Of Information Technology
+corresponding_contributor:
+  name: Vishal Meshram
+  email: vishal.meshram@viit.ac.in
