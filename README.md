@@ -1,5 +1,5 @@
 # MNet: A Framework to Reduce Fruit Image Misclassification 
-## original artcile is avaialble at https://www.iieta.org/journals/isi/paper/10.18280/isi.260203
+## original article is avaialble at https://www.iieta.org/journals/isi/paper/10.18280/isi.260203
 
 This repositoy cosnists of 3 python files: 
 1) FC_with_inceptionv3_plainModel.py
